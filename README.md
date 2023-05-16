@@ -1,4 +1,4 @@
-# Simulation and Modelling Project: ABM based model for P2P network porliferation in Europe
+# Simulation and Modelling Project: ABM based model for P2P network proliferation in Europe
 This repository contains code and further details regarding a project completed as part of the Simulation and Modelling module of the Msc in Data Science and Business Analytics. Below you find the abstract providing greater details as per the content of the research project:
 
 
